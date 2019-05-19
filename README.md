@@ -22,7 +22,7 @@ Red black trees are a way of balacing binary search trees. The way it works is s
 
         	BLACK
         	/   \
-        RED    RED
+         RED    RED
         
 # After color-flip
 
