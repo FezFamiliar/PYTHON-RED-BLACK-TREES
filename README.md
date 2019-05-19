@@ -30,3 +30,5 @@ Red black trees are a way of balacing binary search trees. The way it works is s
          /   \
       BLACK  BLACK
 
+
+After a successful series of operations this data structure can delete, insert and search for a given element in O(logn) time in the worst case.
