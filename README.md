@@ -10,8 +10,8 @@ Red black trees are a way of balacing binary search trees. The way it works is s
  	2. Every node is either red or black.
  	3. New node is always red.
  	4. No consecutive 2 red nodes.
- 	5. Every path must have the same number of black nodes
- 	6. Nulls are black
+ 	5. Every path must have the same number of black nodes.
+ 	6. Nulls are black.
 
 # Rebalance
 
